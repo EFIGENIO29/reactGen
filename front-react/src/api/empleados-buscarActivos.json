@@ -1,0 +1,29 @@
+{
+    "successful": true,
+    "functionalMessage": "Servicio invocado de forma exitosa",
+    "technicalMessage": "Método EmpleadosRestServices.buscarActivos ejecutado",
+    "traceId": "1492973137066-4367",
+    "payload": [
+        {
+            "nombre": "AMILCAR",
+            "apellidoPaterno": "LOPEZ",
+            "apellidoMaterno": "AVILES",
+            "noPersona": "726007796",
+            "noNomina": "726007796",
+            "claveSucursal": "0",
+            "descripcionSucursal": "CENTRAL",
+            "claveDireccion": "92",
+            "descripcionDireccion": "Dirección de Sistemas",
+            "clavePuesto": "000000111",
+            "descripcionPuesto": "COORDINADOR DE DESARROLLO DE SISTEMAS",
+            "estatus": "1",
+            "claveEmpresa": "1",
+            "descripcionEmpresa": "Financiera Independencia, S.A. de C.V.,",
+            "usuario": "alopezavil",
+            "usuarioMultiple": null,
+            "usuarioAD": "alopezavil",
+            "passwordBD": "326dd47aa9bde75bae8dff381a087d160e5adebf038da977",
+            "rfc": "LOAA8201249F8"
+        }
+    ]
+}

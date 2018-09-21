@@ -1,0 +1,23 @@
+# Production directory
+dist
+
+# Documentation directory
+doc
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# Logs
+logs
+*.log*
+
+# IDEA/Webstorm project files
+.idea
+*.iml
+
+#VSCode metadata
+.vscode
+
+# Mac files
+.DS_Store

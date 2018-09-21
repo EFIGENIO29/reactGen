@@ -1,0 +1,117 @@
+{
+   "successful": true,
+   "functionalMessage": "Servicio invocado de forma exitosa",
+   "technicalMessage": "Método AutorizacionRestService.consultarUsuarios ejecutado",
+   "traceId": "1492820477929-5617",
+   "payload": [   {
+      "idPersona": "8",
+      "claveUsuario": "alopezavil",
+      "perfiles": [],
+      "facultades":       [
+                  {
+            "codigoFacultad": "FSIC01",
+            "descripcion": "Facultad SIC 01",
+            "modulo":             {
+               "codigoModulo": "SIC",
+               "descripcion": "Modulo SIC",
+               "estatus": "A",
+               "usuarioAlta": "core",
+               "fechaHoraAlta": 1470093321843,
+               "usuarioUltimaModificacion": "core",
+               "fechaHoraUltimaModificacion": 1470245419772
+            },
+            "tipoFacultad": "FPANT",
+            "estatus": "A",
+            "fechaHoraAlta": 1470095131430,
+            "usuarioAlta": "core",
+            "fechaHoraUltimaModificacion": 1470246960710,
+            "usuarioUltimaModificacion": "core",
+            "caducidad": null
+         },
+                  {
+            "codigoFacultad": "FSIF01",
+            "descripcion": "Facultad SIF 01",
+            "modulo":             {
+               "codigoModulo": "SIF",
+               "descripcion": "Modulo SIF",
+               "estatus": "A",
+               "usuarioAlta": "core",
+               "fechaHoraAlta": 1470093321843,
+               "usuarioUltimaModificacion": "core",
+               "fechaHoraUltimaModificacion": 1470245419772
+            },
+            "tipoFacultad": "FPANT",
+            "estatus": "A",
+            "fechaHoraAlta": 1470095131430,
+            "usuarioAlta": "core",
+            "fechaHoraUltimaModificacion": 1470246960710,
+            "usuarioUltimaModificacion": "core",
+            "caducidad": null
+         },
+                  {
+            "codigoFacultad": "FGAP01",
+            "descripcion": "Facultad GAP 01",
+            "modulo":             {
+               "codigoModulo": "GAP",
+               "descripcion": "Modulo GAP",
+               "estatus": "A",
+               "usuarioAlta": "core",
+               "fechaHoraAlta": 1470093321843,
+               "usuarioUltimaModificacion": "core",
+               "fechaHoraUltimaModificacion": 1470245419772
+            },
+            "tipoFacultad": "FPANT",
+            "estatus": "A",
+            "fechaHoraAlta": 1470095131430,
+            "usuarioAlta": "core",
+            "fechaHoraUltimaModificacion": 1470246960710,
+            "usuarioUltimaModificacion": "core",
+            "caducidad": null
+         },
+                  {
+            "codigoFacultad": "FSIC02",
+            "descripcion": "Facultad SIC 02",
+            "modulo":             {
+               "codigoModulo": "SIC",
+               "descripcion": "Modulo SIC",
+               "estatus": "A",
+               "usuarioAlta": "core",
+               "fechaHoraAlta": 1470093321843,
+               "usuarioUltimaModificacion": "core",
+               "fechaHoraUltimaModificacion": 1470245419772
+            },
+            "tipoFacultad": "FPANT",
+            "estatus": "A",
+            "fechaHoraAlta": 1470095131430,
+            "usuarioAlta": "core",
+            "fechaHoraUltimaModificacion": 1470246960710,
+            "usuarioUltimaModificacion": "core",
+            "caducidad": null
+         },
+                  {
+            "codigoFacultad": "FSIF02",
+            "descripcion": "Facultad SIF 02",
+            "modulo":             {
+               "codigoModulo": "SIF",
+               "descripcion": "Modulo SIF",
+               "estatus": "A",
+               "usuarioAlta": "core",
+               "fechaHoraAlta": 1470093321843,
+               "usuarioUltimaModificacion": "core",
+               "fechaHoraUltimaModificacion": 1470245419772
+            },
+            "tipoFacultad": "FPANT",
+            "estatus": "A",
+            "fechaHoraAlta": 1470095131430,
+            "usuarioAlta": "core",
+            "fechaHoraUltimaModificacion": 1470246960710,
+            "usuarioUltimaModificacion": "core",
+            "caducidad": null
+         }
+      ],
+      "usuarioUltimaModificacion": "core",
+      "fechaHoraUltimaModificacion": 1470247843140,
+      "usuarioAlta": "core",
+      "fechaHoraAlta": 1470071722300
+   }]
+}

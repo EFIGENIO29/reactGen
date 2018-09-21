@@ -1,0 +1,29 @@
+{
+   "successful":true,
+   "functionalMessage":"Servicio invocado de forma exitosa",
+   "technicalMessage":"Método EmpleadosRestServices.buscarDatosPorSistema ejecutado",
+   "traceId":"1494435464048-7309",
+   "payload":{
+      "nombre":null,
+      "apellidoPaterno":null,
+      "apellidoMaterno":null,
+      "noPersona":null,
+      "noNomina":null,
+      "claveSucursal":null,
+      "descripcionSucursal":null,
+      "claveDireccion":null,
+      "descripcionDireccion":null,
+      "clavePuesto":null,
+      "descripcionPuesto":null,
+      "estatus":null,
+      "claveEmpresa":"6",
+      "claveCentroCosto":"1",
+      "sesFacConfirmar":"S",
+      "descripcionEmpresa":null,
+      "usuario":null,
+      "usuarioMultiple":null,
+      "usuarioAD":null,
+      "passwordBD":null,
+      "rfc":null
+   }
+}

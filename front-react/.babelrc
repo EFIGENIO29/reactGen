@@ -1,0 +1,23 @@
+{
+  "presets": [
+    "es2015",
+    "react",
+    "stage-1"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-react-constant-elements",
+    "transform-react-remove-prop-types",
+    [
+      "module-resolver", {
+        "root": ["./src"],
+        "alias": {
+          "test": "../__tests__",
+          "api": "./src/api",
+          "components": "../src/components",
+          "store": "../src/store"
+        }
+      }
+    ]
+  ]
+}
