@@ -1,1 +1,1 @@
-# reactGen
+# react,redux, javascript, ecmascript
